@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-4 col-md-12 col-12">
-          <div class="about-img">
+          <div class="about-img img-padding">
             <img src="carla-martinesi-ZW9CSUdANqw-unsplash.jpg" alt="" class="img-fluid">
           </div>
         </div>
