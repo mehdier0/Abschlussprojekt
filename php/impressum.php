@@ -17,7 +17,7 @@ crossorigin="anonymous">
 
 <?php include_once "navbar.php" ?>
 
-<div class="containerImpressum">
+<div class="containerImpressum container py-5">
 <h1 class="top1"><strong>Impressum</strong></h1>
 <p>Name: SchlafGut GmbH
 <br>Adresse: A-1200 Wien, Höchstädtpl. 6
@@ -37,14 +37,23 @@ crossorigin="anonymous">
 <br>
 <p>UID-Nr: ATU10323803</p>
 <p>Firmenbuchnummer: FN 6285i</p>
-
+<div>
 
 <h3><p>Hotelverwaltung</p><br></h3>
 
-<div>
-    <img src="mehdi_erdem.jpg" height="300px">
-    <img src="Ron_Feldmann.jpeg" height="300px">
+<div class="row py-1">
+    <div class="col">
+    <img src="mehdi_erdem.jpg" class="img-fluid" height="300px">
+    </div>
+    <div class="col">
+    <img src="Ron_Feldmann.jpeg" class="img-fluid" height="300px">
+    </div>
+  </div>
+
 </div>
+
+
+
 
 </div>
 
