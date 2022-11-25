@@ -1,4 +1,4 @@
-<section id="about" class="about section-padding"> 
+<section id="about" class="about section-padding py-5"> 
 
     <div class="container">
       <div class="row">
@@ -23,7 +23,7 @@
 
   <!--services-->
 
-  <section class="services section-padding" id="services">
+  <section class="services section-padding py-5" id="services">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
