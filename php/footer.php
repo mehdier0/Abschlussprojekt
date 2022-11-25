@@ -1,6 +1,6 @@
 
 <!--footer-->
-<div class="container-fluid  text-white p-3" style="font-family: 'Poppins', sans-serif; background: #0e0d0f;
+<div class="container-fluid  text-white p-3 mt-3" style="font-family: 'Poppins', sans-serif; background: #0e0d0f;
 background: linear-gradient(to right, #0c0c0c, #101013, #0f0c29);">
 
 
