@@ -46,6 +46,8 @@ crossorigin="anonymous">
     <img src="Ron_Feldmann.jpeg" height="300px">
 </div>
 
+</div>
+
 
 <?php include_once "footer.php"; ?>
 </body>

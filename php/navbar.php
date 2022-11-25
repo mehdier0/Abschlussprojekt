@@ -3,7 +3,7 @@
 ?>
 
 <!---Navbar-->
-<nav class="navbar navbar-expand-lg bg-dark navbar-dark fixed-top">
+<nav class="navbar navbar-expand-lg bg-dark navbar-dark">
     <div class="container">
 
       <a href="/" class="navbar-brand align-top"><img src="newLogo_neu1.jpg" width="90px"/></a>
