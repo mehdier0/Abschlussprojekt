@@ -10,7 +10,7 @@
     crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="../css/main.css">
    
-    <title>HotelSchlafGut</title>
+    <title>Hotel SchlafGut</title>
 </head>
 <body>
 <?php

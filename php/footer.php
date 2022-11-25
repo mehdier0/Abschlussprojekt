@@ -46,7 +46,7 @@ background: linear-gradient(to right, #0c0c0c, #101013, #0f0c29);">
      <hr>
      <div class="row">
          <div class="col-md-12 text-center pt-2">
-             <p>&copy; 2022 Copyright <a href="#" class="text-white">The Providers</a></p>
+             <p>&copy; 2022 Copyright <a href="#" class="text-white">Mehdi</a></p>
          </div>
      </div>
  </div>
