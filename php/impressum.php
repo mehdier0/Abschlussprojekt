@@ -39,9 +39,9 @@ crossorigin="anonymous">
 <p>Firmenbuchnummer: FN 6285i</p>
 <div>
 
-<h3><p>Hotelverwaltung</p><br></h3>
-
-<div class="row py-1">
+  
+  <div class="row py-1">
+  <h3><p>Hotelverwaltung</p><br></h3>
     <div class="col">
     <img src="mehdi_erdem.jpg" class="img-fluid" height="300px">
     </div>
