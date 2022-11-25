@@ -1,7 +1,7 @@
 <?php
 session_start();
  ?>
-
+ 
 <?php
  if (@$_SESSION['userID'] != '123') {
          header('Refresh: 1; URL = login.php');
@@ -22,6 +22,7 @@ session_start();
  <?php 
     include 'navbar.php';
  ?>
+
 
 <form action="news.php?menu=upload" method="post" enctype="multipart/form-data" style="padding-top: 100px;">
 <input name="text1" value="<?php if(isset($_POST["text1"])) echo $_POST["text1"] ?>"/>
