@@ -1,0 +1,37 @@
+
+.login {
+    width: 360px;
+    min-height: min-content;
+    padding: 36px;
+    border-radius: 12px;
+    background: #000000;
+    margin-top: 100px;
+    padding-top: auto;
+    margin-block: 100px;
+    margin-block-end: 160px;
+    color:aliceblue
+}
+
+.allforum{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.login h1 {
+    font-size: 36px;
+    margin-bottom: 25px;
+}
+
+.login form {
+    font-size: 20px;
+}
+
+.login form .form-group {
+    margin-bottom: 12px;
+}
+
+.login form input[type="submit"] {
+    font-size: 20px;
+    margin-top: 15px;
+}

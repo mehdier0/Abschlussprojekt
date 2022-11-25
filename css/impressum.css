@@ -1,0 +1,28 @@
+.containerImpressum{
+    margin-top: 140px;
+    margin-bottom: 50px;
+    padding-left: 50px;
+}
+
+.top1{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: 54px;
+    line-height: 1.3em;
+    font-weight: 300;
+}
+
+p{
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 18px;
+    line-height: 1.5em;
+    font-weight: 300;
+    max-width: 60ch;
+    width: 100%;
+}
+
+
+
+
+
