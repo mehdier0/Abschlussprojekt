@@ -1,14 +1,3 @@
-<?php
-session_start();
- ?>
- 
-<?php
- if (@$_SESSION['userID'] != '123') {
-         header('Refresh: 1; URL = login.php');
-    } else if(@$_SESSION['userID'] == '123') {
-        echo "Hallo Admin";
- }
-?>
 
 
 <!DOCTYPE html>
@@ -23,6 +12,15 @@ session_start();
     include 'navbar.php';
  ?>
 
+
+ 
+ <?php
+ if (@$_SESSION['userID'] != '123') {
+         header('Refresh: 1; URL = login.php');
+    } else if(@$_SESSION['userID'] == '123') {
+        echo "Hallo Admin";
+ }
+?>
 
 <form action="news.php?menu=upload" method="post" enctype="multipart/form-data" style="padding-top: 100px;">
 <input name="text1" value="<?php if(isset($_POST["text1"])) echo $_POST["text1"] ?>"/>

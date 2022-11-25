@@ -37,16 +37,19 @@ crossorigin="anonymous">
 <br>
 <p>UID-Nr: ATU10323803</p>
 <p>Firmenbuchnummer: FN 6285i</p>
+<br>
 <div>
 
   
   <div class="row py-1">
-  <h3><p>Hotelverwaltung</p><br></h3>
+  <h2><span><p>Hotelverwaltung</p><br></h2>
     <div class="col">
-    <img src="mehdi_erdem.jpg" class="img-fluid" height="300px">
+    <img src="mehdi_erdem.jpg" class="img-fluid" height="300px" width="350px">
+    <p>Mehdi Erdem</p>
     </div>
     <div class="col">
-    <img src="Ron_Feldmann.jpeg" class="img-fluid" height="300px">
+    <img src="Ron_Feldmann.jpeg" class="img-fluid" height="300px" width="350px">
+    <p>Ron Feldmann</p>
     </div>
   </div>
 

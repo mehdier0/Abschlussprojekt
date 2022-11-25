@@ -1,3 +1,7 @@
+<?php
+session_start();
+ ?>
+
 <!---Navbar-->
 <nav class="navbar navbar-expand-lg bg-dark navbar-dark sticky-top">
     <div class="container">
